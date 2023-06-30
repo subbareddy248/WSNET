@@ -11,3 +11,18 @@ Wound Image Segmentation
 * 2686 wound images
 * 2686 masks correspodning to wound images
   
+## Slides
+
+[slides](https://docs.google.com/presentation/d/1P92XhO2dTD64NFPa5N2LCOHRLxF271xM/edit#slide=id.p1)
+
+## For Citation of our work
+```
+@InProceedings{Oota_2023_WACV,
+    author    = {Oota, Subba Reddy and Rowtula, Vijay and Mohammed, Shahid and Liu, Minghsun and Gupta, Manish},
+    title     = {WSNet: Towards an Effective Method for Wound Image Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {3234-3243}
+}
+```
