@@ -26,3 +26,13 @@ Wound Image Segmentation
     pages     = {3234-3243}
 }
 ```
+```
+@InProceedings{Oota_2021_WACV,
+    author    = {Oota, Subba Reddy and Rowtula, Vijay and Mohammed, Shahid and Galitz, Jeffrey and Liu, Minghsun and Gupta, Manish},
+    title     = {HealTech - A System for Predicting Patient Hospitalization Risk and Wound Progression in Old Patients},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2021},
+    pages     = {2463-2472}
+}
+```
